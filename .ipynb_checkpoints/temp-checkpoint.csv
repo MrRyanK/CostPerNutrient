@@ -1,0 +1,324 @@
+,Item,Form,match_count,scorer,threshold,name,score,nutrition_index
+122,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Salami, turkey, cooked",100.0,19
+123,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Broccoli raab, cooked",100.0,47
+124,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Ground turkey, cooked",100.0,60
+125,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Salami, beef, cooked",100.0,148
+126,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Rice noodles, cooked",100.0,159
+127,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Guava sauce, cooked",100.0,252
+128,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Carrots, raw, baby",100.0,277
+129,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Plantains, cooked",100.0,357
+130,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Wild rice, cooked",100.0,390
+131,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Couscous, cooked",100.0,411
+132,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Oat bran, cooked",100.0,433
+133,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Quinoa, cooked",100.0,506
+134,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Bulgur, cooked",100.0,513
+135,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Tempeh, cooked",100.0,514
+136,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Millet, cooked",100.0,516
+137,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Spelt, cooked",100.0,562
+138,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Carrots, raw",100.0,584
+139,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Teff, cooked",100.0,604
+140,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Egg, poached, cooked, whole",100.0,689
+141,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Salami, beef and pork, cooked",100.0,698
+142,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Crackers, whole grain, cheese",100.0,707
+143,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Dove, cooked (includes squab)",100.0,712
+144,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, raw, meat only, whole",100.0,741
+145,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Egg, scrambled, cooked, whole",100.0,753
+146,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Tree fern, with salt, cooked",100.0,786
+147,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, raw, giblets, whole",100.0,902
+148,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Quail, total edible, cooked",100.0,924
+149,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cheese, whole milk, ricotta",100.0,937
+150,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Taro, without salt, cooked",100.0,1029
+151,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Egg, omelet, cooked, whole",100.0,1039
+152,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Bagels, whole grain white",100.0,1061
+153,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Egg, fried, cooked, whole",100.0,1085
+154,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Agave, cooked (Southwest)",100.0,1105
+155,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Malabar spinach, cooked",100.0,1252
+156,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Taro, with salt, cooked",100.0,1293
+157,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Amaranth grain, cooked",100.0,1348
+158,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Yogurt, whole milk, fruit, Greek",100.0,1366
+159,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"English muffins, whole grain white",100.0,1441
+160,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Asparagus, drained, boiled, cooked",100.0,1517
+161,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Taro shoots, without salt, cooked",100.0,1526
+162,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Kielbasa, pan-fried, fully cooked",100.0,1609
+163,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, raw, meat and skin, whole",100.0,1610
+164,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Canadian bacon, pan-fried, cooked",100.0,1611
+165,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Kielbasa, unheated, fully cooked",100.0,1679
+166,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Mutton, roasted (Navajo), cooked",100.0,1688
+167,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Yogurt, whole milk, plain, Greek",100.0,1766
+168,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Egg, hard-boiled, cooked, whole",100.0,1813
+169,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Kielbasa, grilled, fully cooked",100.0,1852
+170,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Tree fern, without salt, cooked",100.0,1887
+171,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Pheasant, total edible, cooked",100.0,1935
+172,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beets, drained, boiled, cooked",100.0,1953
+173,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cheese, whole milk, mozzarella",100.0,2000
+174,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Nopales, without salt, cooked",100.0,2036
+175,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Kale, with salt, drained, boiled, cooked",100.0,2089
+176,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Fish, whole (Alaska Native), blackfish",100.0,2325
+177,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Bread, whole wheat, french or vienna",100.0,2481
+178,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cereals, cooked with water, WHEATENA",100.0,2563
+179,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Sweet potato, home-prepared, candied, cooked",100.0,2747
+180,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Purslane, with salt, drained, boiled, cooked",100.0,2765
+181,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Eggplant, with salt, drained, boiled, cooked",100.0,2777
+182,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Parsnips, with salt, drained, boiled, cooked",100.0,2779
+183,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Broccoli, with salt, drained, boiled, cooked",100.0,2792
+184,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, raw, meat only, back from whole bird",100.0,2793
+185,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Celeriac, with salt, drained, boiled, cooked",100.0,2797
+186,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Collards, with salt, drained, boiled, cooked",100.0,2798
+187,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Kohlrabi, with salt, drained, boiled, cooked",100.0,2858
+188,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cheese, low moisture, whole milk, mozzarella",100.0,2873
+189,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Sesbania flower, with salt, steamed, cooked",100.0,2892
+190,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Dock, without salt, drained, boiled, cooked",100.0,2903
+191,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Kale, without salt, drained, boiled, cooked",100.0,2912
+192,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Pumpkin, with salt, drained, boiled, cooked",100.0,2922
+193,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Okra, without salt, drained, boiled, cooked",100.0,2928
+194,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turnips, with salt, drained, boiled, cooked",100.0,2949
+195,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Spinach, with salt, drained, boiled, cooked",100.0,2989
+196,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Salsify, with salt, drained, boiled, cooked",100.0,2990
+197,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Pasta, without added salt, enriched, cooked",100.0,2994
+198,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cardoon, with salt, drained, boiled, cooked",100.0,3014
+200,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Taro leaves, without salt, steamed, cooked",100.0,3028
+201,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Borage, with salt, drained, boiled, cooked",100.0,3037
+202,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Onions, with salt, drained, boiled, cooked",100.0,3098
+203,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Pasta, with added salt, unenriched, cooked",100.0,3107
+204,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Celery, with salt, drained, boiled, cooked",100.0,3108
+205,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Sweet potato, without skin, boiled, cooked",100.0,3122
+206,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beets, with salt, boiled. drained, cooked",100.0,3193
+207,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, roasted, cooked, meat only, whole",100.0,3265
+208,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Dock, with salt, drained, boiled, cooked",100.0,3325
+209,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, simmered, cooked, giblets, whole",100.0,3331
+210,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Rolls, whole wheat, hamburger or hot dog",100.0,3342
+211,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Pasta, with added salt, enriched, cooked",100.0,3346
+212,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Okra, with salt, drained, boiled, cooked",100.0,3361
+213,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Celery, without salt, drained, boiled, cooked",100.0,3403
+214,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Lambsquarters, with salt, drained, boiled, cooked",100.0,3420
+215,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Potatoes, with salt, skin, cooked in skin, boiled",100.0,3425
+216,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, roasted, meat only, from whole bird, wing",100.0,3430
+217,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Escarole, no salt added, drained, boiled, cooked",100.0,3487
+218,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Milk, with added vitamin D, 3.25% milkfat, whole",100.0,3505
+219,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Butterbur, without salt, drained, boiled, cooked",100.0,3507
+220,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Burdock root, with salt, drained, boiled, cooked",100.0,3508
+221,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Arrowhead, without salt, drained, boiled, cooked",100.0,3536
+222,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Rutabagas, without salt, drained, boiled, cooked",100.0,3565
+223,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Babyfood, prepared with whole milk, rice, cereal",100.0,3592
+224,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"School Lunch, whole grain breaded, chicken patty",100.0,3597
+225,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Broccoli, without salt, drained, boiled, cooked",100.0,3603
+226,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beet greens, with salt, drained, boiled, cooked",100.0,3606
+227,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Celeriac, without salt, drained, boiled, cooked",100.0,3614
+228,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Eggplant, without salt, drained, boiled, cooked",100.0,3642
+229,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Purslane, without salt, drained, boiled, cooked",100.0,3648
+230,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Parsnips, without salt, drained, boiled, cooked",100.0,3668
+231,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, raw, meat only, from whole bird, breast",100.0,3671
+232,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Collards, without salt, drained, boiled, cooked",100.0,3677
+233,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cereals, with salt, cooked with water, WHEATENA",100.0,3678
+234,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cauliflower, with salt, drained, boiled, cooked",100.0,3683
+235,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Crackers, with whole wheat, standard snack-type",100.0,3684
+236,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Sweet potato leaves, with salt, steamed, cooked",100.0,3732
+237,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Kohlrabi, without salt, drained, boiled, cooked",100.0,3742
+238,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Pumpkin, without salt, drained, boiled, cooked",100.0,3796
+239,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Sesbania flower, without salt, steamed, cooked",100.0,3800
+241,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cardoon, without salt, drained, boiled, cooked",100.0,3810
+242,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Oopah (tunicate), whole animal (Alaska Native)",100.0,3827
+243,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, raw, (light and dark), skin from whole",100.0,3843
+244,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Salsify, without salt, drained, boiled, cooked",100.0,3871
+245,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, raw, meat only, from whole bird, thigh",100.0,3878
+246,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Spinach, without salt, drained, boiled, cooked",100.0,3879
+247,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, roasted, cooked, dark meat, from whole",100.0,3883
+248,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Lotus root, with salt, drained, boiled, cooked",100.0,3888
+249,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turnips, without salt, drained, boiled, cooked",100.0,3896
+250,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cabbage, without salt, drained, boiled, cooked",100.0,3897
+251,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Soybeans, without salt, boiled, mature cooked",100.0,3932
+252,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Borage, without salt, drained, boiled, cooked",100.0,3944
+253,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Tortillas, whole wheat, ready-to-bake or -fry",100.0,3948
+254,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Butterbur, with salt, drained, boiled, cooked",100.0,3974
+255,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Arrowhead, with salt, drained, boiled, cooked",100.0,3987
+256,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Asparagus, with salt, drained, boiled, cooked",100.0,3988
+257,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, roasted, cooked, meat and skin, whole",100.0,4011
+258,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Pasta, without added salt, unenriched, cooked",100.0,4030
+259,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Rutabagas, with salt, drained, boiled, cooked",100.0,4037
+260,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Onions, without salt, drained, boiled, cooked",100.0,4057
+261,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, raw, meat only, from whole bird, wing",100.0,4059
+262,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Mustard greens, with salt, drained, boiled, cooked",100.0,4083
+263,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Mustard greens, without salt, drained, boiled, cooked",100.0,4101
+264,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Potatoes, without salt, flesh, cooked in skin, boiled",100.0,4141
+265,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Drumstick pods, without salt, drained, boiled, cooked",100.0,4144
+266,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Pumpkin leaves, without salt, drained, boiled, cooked",100.0,4149
+267,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Sweet potato, with salt, flesh, baked in skin, cooked",100.0,4159
+268,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Sweet potato, with salt, without skin, boiled, cooked",100.0,4160
+269,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Yambean (jicama), with salt, drained, boiled, cooked",100.0,4187
+270,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cereals, with salt, cooked with water, CREAM OF RICE",100.0,4226
+271,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Dandelion greens, with salt, drained, boiled, cooked",100.0,4239
+272,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Drumstick leaves, with salt, drained, boiled, cooked",100.0,4240
+273,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Brussels sprouts, with salt, drained, boiled, cooked",100.0,4248
+274,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Potatoes, without salt, skin, cooked in skin, boiled",100.0,4284
+275,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Bamboo shoots, without salt, drained, boiled, cooked",100.0,4285
+276,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Yam, without salt, or baked, drained, boiled, cooked",100.0,4291
+277,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Yardlong bean, without salt, drained, boiled, cooked",100.0,4300
+278,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Lambsquarters, without salt, drained, boiled, cooked",100.0,4314
+279,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beverages, prepared with whole milk, chocolate syrup",100.0,4318
+280,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turnip greens, without salt, drained, boiled, cooked",100.0,4322
+281,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Burdock root, without salt, drained, boiled, cooked",100.0,4375
+282,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Babyfood, prepared with whole milk, oatmeal, cereal",100.0,4376
+283,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Amaranth leaves, with salt, drained, boiled, cooked",100.0,4394
+284,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Caribou, cooked (Alaska Native), meat, hind quarter",100.0,4448
+285,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, roasted, meat only, from whole bird, breast",100.0,4457
+286,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Sweet potato leaves, without salt, steamed, cooked",100.0,4473
+287,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Drumstick pods, with salt, drained, boiled, cooked",100.0,4522
+288,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Babyfood, prepared with whole milk, barley, cereal",100.0,4531
+289,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, roasted, meat only, from whole bird, thigh",100.0,4537
+290,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beet greens, without salt, drained, boiled, cooked",100.0,4543
+291,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, raw, with added solution, meat only, whole",100.0,4544
+292,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Potatoes, with salt, flesh, cooked in skin, boiled",100.0,4608
+293,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cauliflower, without salt, drained, boiled, cooked",100.0,4611
+294,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Pumpkin leaves, with salt, drained, boiled, cooked",100.0,4617
+295,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, raw, meat only, from whole bird, drumstick",100.0,4622
+296,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"School Lunch, whole grain breaded, chicken nuggets",100.0,4623
+297,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turnip greens, with salt, drained, boiled, cooked",100.0,4626
+298,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Yam, with salt, or baked, drained, boiled, cooked",100.0,4627
+299,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Yardlong bean, with salt, drained, boiled, cooked",100.0,4628
+300,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Bamboo shoots, with salt, drained, boiled, cooked",100.0,4630
+301,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cereals ready-to-eat, WEETABIX whole grain cereal",100.0,4642
+302,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, roasted, skin from whole (light and dark)",100.0,4656
+303,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Potatoes, whole milk added, home-prepared, mashed",100.0,4657
+304,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Lotus root, without salt, drained, boiled, cooked",100.0,4694
+305,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Babyfood, prepared with whole milk, mixed, cereal",100.0,4700
+306,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, roasted, meat only, from whole bird, back",100.0,4704
+307,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, roasted, with added solution, meat only, whole",100.0,4762
+308,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"New Zealand spinach, without salt, drained, boiled, cooked",100.0,4785
+309,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, roasted, with added solution, meat and skin, whole",100.0,4811
+310,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Elk, cooked patties (Shoshone Bannock), ground, free range",100.0,4824
+311,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Potatoes, without salt, flesh, cooked without skin, boiled",100.0,4837
+312,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cereals, without salt, cooked with water, enriched, farina",100.0,4861
+313,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Potatoes, without salt, flesh, cooked in skin, microwaved",100.0,4974
+314,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Sweet potato, without salt, flesh, baked in skin, cooked",100.0,5013
+315,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Babyfood, prepared with whole milk, high protein, cereal",100.0,5070
+316,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Potatoes, without salt, skin, cooked in skin, microwaved",100.0,5098
+317,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Brussels sprouts, without salt, drained, boiled, cooked",100.0,5128
+318,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cereals, without salt, cooked with water, CREAM OF RICE",100.0,5163
+319,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"New zealand spinach, with salt, drained, boiled, cooked",100.0,5170
+320,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Yambean (jicama), without salt, drained, boiled, cooked",100.0,5220
+321,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Drumstick leaves, without salt, drained, boiled, cooked",100.0,5227
+322,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cereals, with salt, cooked with water, enriched, farina",100.0,5232
+323,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Dandelion greens, without salt, drained, boiled, cooked",100.0,5235
+324,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Potatoes, with salt, flesh, cooked without skin, boiled",100.0,5245
+325,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Rolls, calcium-fortified, whole grain white, hamburger",100.0,5280
+326,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Crackers, whole wheat (includes multi-grain), saltines",100.0,5305
+327,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, raw, with added solution, meat and skin, whole",100.0,5322
+328,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Amaranth leaves, without salt, drained, boiled, cooked",100.0,5343
+329,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Yogurt, 8 grams protein per 8 ounce, whole milk, plain",100.0,5351
+330,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Pumpkin flowers, without salt, drained, boiled, cooked",100.0,5358
+331,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Potatoes, with salt, flesh, cooked in skin, microwaved",100.0,5379
+332,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, roasted, meat only, from whole bird, drumstick",100.0,5391
+333,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"USDA Commodity, unheated, cooked as purchased, salmon nuggets",100.0,5448
+334,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Potatoes, whole milk and margarine added, home-prepared, mashed",100.0,5512
+335,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Veal, raw, separable lean only, whole (arm and blade), shoulder",100.0,5528
+336,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Babyfood, prepared with whole milk, with bananas, mixed, cereal",100.0,5540
+337,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Buffalo, cooked (Shoshone Bannock), top round steak, free range",100.0,5552
+338,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Elk, cooked (Shoshone Bannock), eye of round, roast, free range",100.0,5553
+339,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Babyfood, prepared with whole milk, with honey, oatmeal, cereal",100.0,5589
+340,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Babyfood, prepared with whole milk, with bananas, rice, cereal",100.0,5647
+341,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beverages, prepared with whole milk, powder, Eggnog-flavor mix",100.0,5678
+342,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Babyfood, prepared with whole milk, with honey, mixed, cereal",100.0,5769
+343,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Bread, refrigerated, commercially prepared, whole wheat, naan",100.0,5825
+344,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Potatoes, whole milk and butter added, home-prepared, mashed",100.0,5911
+345,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, roasted, cooked, meat and skin, dark meat from whole",100.0,5938
+346,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Babyfood, prepared with whole milk, with honey, rice, cereal",100.0,5947
+347,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, roasted, with added solution, meat only, from whole bird, thigh",100.0,6156
+348,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, roasted, with added solution, (light and dark), skin from whole",100.0,6191
+349,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beverages, prepared with whole milk, powder, natural, Malted drink mix",100.0,6225
+350,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, raw, with added solution, meat and skin, from whole bird, back",100.0,6232
+351,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, roasted, with added solution, meat only, from whole bird, back",100.0,6235
+352,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beverages, prepared with whole milk, powder, Carob-flavor beverage mix",100.0,6257
+353,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, roasted, with added solution, meat only, from whole bird, wing",100.0,6266
+354,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Swamp cabbage (skunk  cabbage), without salt, drained, boiled, cooked",100.0,6280
+355,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cereals, with salt, cooked with water, whole wheat hot natural cereal",100.0,6309
+356,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, raw, with added solution, meat and skin, dark meat from whole",100.0,6313
+357,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, raw, with added solution, meat only, from whole bird, breast",100.0,6376
+358,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, raw, with added solution, meat only, from whole bird, thigh",100.0,6465
+359,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, raw, with added solution, meat only, from whole bird, back",100.0,6518
+360,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Potatoes, without salt, flesh and skin, cooked in skin, microwaved",100.0,6527
+361,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Veal, raw, separable lean and fat, whole (arm and blade), shoulder",100.0,6549
+362,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, raw, with added solution, meat only, from whole bird, wing",100.0,6562
+363,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, raw, with added solution, skin from whole (light and dark)",100.0,6610
+364,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Milk, without added vitamin A and vitamin D, 3.25% milkfat, whole",100.0,6615
+365,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Swamp cabbage (skunk cabbage), with salt, drained, boiled, cooked",100.0,6626
+366,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Rice, cooked without salt, unenriched, regular, long-grain, white",100.0,6636
+367,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Chicken, cooked simmered, meat and skin, neck, broilers or fryers",100.0,6690
+368,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Babyfood, prepared with whole milk, with bananas, oatmeal, cereal",100.0,6717
+369,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, raw, with added solution, meat only, dark meat from whole",100.0,6718
+370,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Crackers, with peanut butter filling, sandwich-type, whole grain",100.0,6759
+371,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Pasta, cooked, remaining enriched semolina, 51% whole wheat, whole grain",100.0,6801
+372,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Babyfood, multigrain cereal and added iron fortified, with fruit, whole milk, yogurt",100.0,6832
+373,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cereals, with salt, cooked with water, enriched, quick, regular, yellow, corn grits",100.0,6853
+374,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Babyfood, multigrain cereal and added DHA fortified, with fruit, whole milk, yogurt",100.0,6854
+375,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, roasted, cooked, with added solution, meat and skin, dark meat from whole",100.0,6957
+376,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Potatoes, whole milk and margarine, without milk, prepared from granules, mashed",100.0,6990
+377,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Babyfood, prepared with whole milk, with apple and orange, high protein, cereal",100.0,7035
+378,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Babyfood, baked whole grain corn snack, LIL CRUNCHIES, GRADUATES, GERBER, Snack",100.0,7052
+379,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Veal, roasted, cooked, separable lean and fat, whole (arm and blade), shoulder",100.0,7104
+380,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Veal, braised, cooked, separable lean and fat, whole (arm and blade), shoulder",100.0,7105
+381,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Rolls, made with tapioca starch and brown rice flour, whole grain, gluten-free",100.0,7106
+382,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Bread, made with tapioca starch and brown rice flour, whole grain, gluten-free",100.0,7121
+383,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cereals, without salt, cooked with water, regular (10 minute), CREAM OF WHEAT",100.0,7150
+384,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beverages, prepared with whole milk, powder, Strawberry-flavor beverage mix",100.0,7237
+385,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, roasted, with added solution, meat only, from whole bird, drumstick",100.0,7246
+386,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Veal, roasted, cooked, separable lean only, whole (arm and blade), shoulder",100.0,7263
+387,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Veal, braised, cooked, separable lean only, whole (arm and blade), shoulder",100.0,7264
+388,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cereals, with salt, cooked with water, regular (10 minute), CREAM OF WHEAT",100.0,7297
+389,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beverages, prepared with whole milk, powder, chocolate-flavor beverage mix",100.0,7298
+390,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Pasta, cooked, remaining unenriched semolina, 51% whole wheat, whole grain",100.0,7299
+391,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, roasted, with added solution, meat and skin, from whole bird, back",100.0,7312
+392,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, roasted, with added solution, meat only, from whole bird, breast",100.0,7391
+393,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beverages, prepared with whole milk, powder, chocolate, Malted drink mix",100.0,7415
+394,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cereals, without salt, cooked with water, whole wheat hot natural cereal",100.0,7434
+395,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey, raw, with added solution, meat only, from whole bird, drumstick",100.0,7463
+396,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beverages, prepared with whole milk, powder, with added nutrients, natural, Malted drink mix",100.0,7489
+397,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beef, roasted, cooked, select, trimmed to 1/8"" fat, separable lean and fat, whole (ribs 6-12), rib",100.0,7506
+398,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beef, broiled, cooked, select, trimmed to 1/8"" fat, separable lean and fat, whole (ribs 6-12), rib",100.0,7507
+399,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beef, roasted, cooked, prime, trimmed to 1/8"" fat, separable lean and fat, whole (ribs 6-12), rib",100.0,7561
+400,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beef, broiled, cooked, prime, trimmed to 1/8"" fat, separable lean and fat, whole (ribs 6-12), rib",100.0,7562
+401,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beverages, prepared with whole milk, powder, with added nutrients, chocolate, Malted drink mix",100.0,7680
+402,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cereals, without salt, microwaved, cooked with water, 2 1/2 minute cook time, CREAM OF WHEAT",100.0,7776
+403,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cereals, without salt, stove-top, cooked with water, 2 1/2 minute cook time, CREAM OF WHEAT",100.0,7831
+404,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beef, raw, all grades, trimmed to 1/8"" fat, separable lean and fat, whole (ribs 6-12), rib",100.0,7856
+405,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cereals, without salt, cooked with water, enriched, regular and quick, yellow, corn grits",100.0,7908
+406,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cereals, without salt, cooked with water, enriched, regular and quick, white, corn grits",100.0,7950
+407,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cereals, without salt, microwaved, cooked with water, 1 minute cook time, CREAM OF WHEAT",100.0,7971
+408,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cereals, without salt, stove-top, cooked with water, 1 minute cook time, CREAM OF WHEAT",100.0,8026
+409,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beef, raw, choice, trimmed to 1/8"" fat, separable lean and fat, whole (ribs 6-12), rib",100.0,8043
+410,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beef, raw, select, trimmed to 1/8"" fat, separable lean and fat, whole (ribs 6-12), rib",100.0,8067
+411,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cereals, with salt, cooked with water, enriched, regular and quick, white, corn grits",100.0,8111
+412,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beef, raw, prime, trimmed to 1/8"" fat, separable lean and fat, whole (ribs 6-12), rib",100.0,8118
+413,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beverages, prepared with whole milk, powder, cereal grain beverage, coffee substitute",100.0,8122
+414,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Duck, braised, cooked without skin, bone in, meat only, leg, White Pekin, domesticated, young duckling",100.0,8164
+415,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Duck, broiled, cooked without skin, boneless, meat only, breast, White Pekin, domesticated, young duckling",100.0,8168
+416,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Lamb, roasted, cooked, trimmed to 1/8"" fat, separable lean and fat, whole (shank and sirloin), leg, fresh, imported, Australian",100.0,8188
+417,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Lamb, roasted, cooked, trimmed to 1/8"" fat, separable lean only, whole (shank and sirloin), leg, fresh, imported, Australian",100.0,8203
+418,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cereals, without salt, cooked with water, quick (1-3 minutes), assorted brands including CREAM OF WHEAT, enriched, farina",100.0,8224
+419,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cereals, with salt, cooked with water (includes boiling and microwaving), unenriched, regular and quick and instant, oats",100.0,8226
+420,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Lamb, cooked, trimmed to 1/8"" fat, separable lean and fat, whole (arm and blade), shoulder, fresh, imported, Australian",100.0,8238
+421,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Lamb, roasted, cooked, choice, trimmed to 1/4"" fat, separable lean and fat, whole (arm and blade), shoulder, domestic",100.0,8252
+422,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Lamb, broiled, cooked, choice, trimmed to 1/4"" fat, separable lean and fat, whole (arm and blade), shoulder, domestic",100.0,8253
+423,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Lamb, braised, cooked, choice, trimmed to 1/4"" fat, separable lean and fat, whole (arm and blade), shoulder, domestic",100.0,8254
+424,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Lamb, braised, cooked, choice, trimmed to 1/8"" fat, separable lean and fat, whole (arm and blade), shoulder, domestic",100.0,8255
+425,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Lamb, broiled, cooked, choice, trimmed to 1/8"" fat, separable lean and fat, whole (arm and blade), shoulder, domestic",100.0,8256
+426,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Lamb, roasted, cooked, choice, trimmed to 1/8"" fat, separable lean and fat, whole (arm and blade), shoulder, domestic",100.0,8257
+427,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Lamb, roasted, cooked, choice, trimmed to 1/8"" fat, separable lean and fat, whole (shank and sirloin), leg, domestic",100.0,8266
+428,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Lamb, cooked, trimmed to 1/8"" fat, separable lean only, whole (arm and blade), shoulder, fresh, imported, Australian",100.0,8267
+429,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Lamb, roasted, cooked, choice, trimmed to 1/4"" fat, separable lean and fat, whole (shank and sirloin), leg, domestic",100.0,8270
+430,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Lamb, roasted, cooked, choice, trimmed to 1/4"" fat, separable lean only, whole (arm and blade), shoulder, domestic",100.0,8285
+431,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Lamb, braised, cooked, choice, trimmed to 1/4"" fat, separable lean only, whole (arm and blade), shoulder, domestic",100.0,8286
+432,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Lamb, broiled, cooked, choice, trimmed to 1/4"" fat, separable lean only, whole (arm and blade), shoulder, domestic",100.0,8287
+433,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Lamb, roasted, cooked, choice, trimmed to 1/4"" fat, separable lean only, whole (shank and sirloin), leg, domestic",100.0,8309
+434,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Cereals, without salt, cooked with water (includes boiling and microwaving), unenriched, regular and quick, oats",100.0,8328
+435,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beverages, prepared with whole milk, with added nutrients, powder, chocolate-flavor beverage mix for milk",100.0,8510
+436,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Lamb, raw, choice, trimmed to 1/4"" fat, separable lean and fat, whole (arm and blade), shoulder, domestic",100.0,8517
+437,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Lamb, raw, choice, trimmed to 1/8"" fat, separable lean and fat, whole (arm and blade), shoulder, domestic",100.0,8518
+438,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Lamb, raw, choice, trimmed to 1/8"" fat, separable lean and fat, whole (shank and sirloin), leg, domestic",100.0,8535
+439,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Turkey sausage, cooked (include BUTTERBALL breakfast links turkey sausage), brown and serve, reduced fat",100.0,8538
+440,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Lamb, raw, choice, trimmed to 1/4"" fat, separable lean and fat, whole (shank and sirloin), leg, domestic",100.0,8551
+441,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beef, broiled, cooked, all grades, trimmed to 1/8"" fat, separable lean and fat, whole (ribs 6-12), rib",100.0,8611
+442,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beef, roasted, cooked, all grades, trimmed to 1/8"" fat, separable lean and fat, whole (ribs 6-12), rib",100.0,8612
+443,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Lamb, raw, choice, trimmed to 1/4"" fat, separable lean only, whole (arm and blade), shoulder, domestic",100.0,8628
+444,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Lamb, raw, choice, trimmed to 1/4"" fat, separable lean only, whole (shank and sirloin), leg, domestic",100.0,8657
+445,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beef, broiled, cooked, choice, trimmed to 1/8"" fat, separable lean and fat, whole (ribs 6-12), rib",100.0,8777
+446,"Carrots, cooked whole",Fresh,325,<cyfunction partial_token_ratio at 0x7fc393193110>,90,"Beef, roasted, cooked, choice, trimmed to 1/8"" fat, separable lean and fat, whole (ribs 6-12), rib",100.0,8778
