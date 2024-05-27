@@ -1,10 +1,10 @@
-,name,RetailPrice
-0,"Wheat, hard red winter",0.82
-1,"Wheat, soft white",0.66
-2,"Popcorn, low fat and sodium, microwave",1.23
-3,"Barley, hulled",0.76
-4,"Millet, raw",1.54
-5,"Corn grain, white",0.82
-6,Oats,0.8
-7,"Egg, fresh, raw, whole",1.5
-8,"Beef, raw, 93% lean meat / 7% fat, ground",4.5
+name,RetailPrice
+"Wheat, hard red winter",0.82
+"Wheat, soft white",0.66
+"Popcorn, low fat and sodium, microwave",1.23
+"Barley, hulled",0.76
+"Millet, raw",1.54
+"Corn grain, white",0.82
+Oats,0.8
+"Egg, fresh, raw, whole",1.5
+"Beef, raw, 93% lean meat / 7% fat, ground",4.5
