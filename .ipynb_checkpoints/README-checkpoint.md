@@ -10,6 +10,6 @@ From the initial research, some findings were surprising. It may interest the re
 
 A painful challenge was the combining the two datasets of food items' nutritional information with the separate food costs. The items or names were not exact matching strings. Great effort was employed in running fuzzymatches to identify the mappings, alas to such false-positive ridden results that ended up compromising the later optimization steps. Ultimately, it was decided to hunker down and endure the manual work of finding the matches for approx two hundred records, which ironically took less time than all that when into building the fuzzymatching code. All was not lost, however, as this all contributed to the author's learning and growth.
 
-![final results][optimized_results.png]
+![final results](/optimized_results.png)
 
-![example of nutritional nominal amount vs. cost][calories_scatter.png]
+![example of nutritional nominal amount vs. cost](/calories_scatter.png)
