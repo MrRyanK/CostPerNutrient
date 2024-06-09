@@ -1,1 +1,15 @@
-# CostPerNutrient
+# Minimizing Cost on Daily Required Nutrients
+
+Given that food consumption is a constant and usually ranked high in one's budget after dwelling expenses, this study seeks to answer the simple question, "what is the dollar cost per nutrient and what would be the optimal foods to consume regularly to both appease the wallet and human body?"
+
+While this study is not exhaustively precise, nor does its author assume the role of nutritionist, the conclusions are at least directional enough in highlighting some key food items that pack a stronger nutritional punch per dollar than the common person may not see since the item is either a humble staple, Oatmeal for instance, or perhaps a luxury item, the Avacado.
+
+Optimizing cost per calorie alone was not the objective--for that load up on grains and dry beans! Rather, the anaylsis sought to find the minimal cost while attempting to satisfy the all macro- and micronutrient daily requirements. Unfortunately these attempts did not end up with a *perfect* outcome--the solver returned `infeasible` when it was fed too many conflicting constraints. Many attempts were made playing with various combinations of contraints to result in a broader diversity of foods.
+
+From the initial research, some findings were surprising. It may interest the reader that although some food items are known for their rich amounts of a particular vitamin, the body could obtain it otherwise from a less costly option not necessarily touted for that nutritional content. For example, vitamin C is commonly known to be obtainable from Oranges. And true, they are ranked relatively high, however actually ranked below some Brassicas, Bell Peppers, and tropical fruits such as Kiwis. But how much is one paying for that vitamin C? Are Oranges the economical choice? In fact, the winner for dollar per vitamin C is actually none of them! Pineapple, given its average price and vitamin C comes in higher, although Kiwis, Cantaloupe Melons, then Bell Peppers come next. There is still plenty of open, unexplored terrain, so to speak, in terms of further analyzing nutritional and even cost differences between Fresh, Frozen, Dried and Canned foods.
+
+A painful challenge was the combining the two datasets of food items' nutritional information with the separate food costs. The items or names were not exact matching strings. Great effort was employed in running fuzzymatches to identify the mappings, alas to such false-positive ridden results that ended up compromising the later optimization steps. Ultimately, it was decided to hunker down and endure the manual work of finding the matches for approx two hundred records, which ironically took less time than all that when into building the fuzzymatching code. All was not lost, however, as this all contributed to the author's learning and growth.
+
+![final results][optimized_results.png]
+
+![example of nutritional nominal amount vs. cost][calories_scatter.png]
